@@ -26,6 +26,7 @@ Included Files:
 🔍 Purpose
 
 This project aims to:
+
 •	Visualize the global impact of COVID-19.
 •	Highlight disparities in healthcare response and outcomes.
 •	Provide a data-driven foundation for further research and policy analysis.
